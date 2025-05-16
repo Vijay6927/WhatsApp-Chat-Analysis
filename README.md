@@ -10,3 +10,14 @@ A Streamlit application to analyze WhatsApp chat exports, offering insights into
 - Emoji usage statistics
 - Sentiment analysis of messages
 
+🧰 Technologies Used
+Python
+
+Streamlit
+
+Pandas
+
+Matplotlib / Seaborn / Plotly
+
+NLTK / Emoji
+
